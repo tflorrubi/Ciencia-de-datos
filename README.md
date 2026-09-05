@@ -197,9 +197,8 @@ A través de proyectos prácticos busco fortalecer mis habilidades en **Python, 
 
 ### Flor Rubi Torres Delgado
 
-🎓 Ingeniería en Sistemas Computacionales
+ Ingeniería en Sistemas Computacionales
 
-📊 Data Science · Python · Análisis de Datos
 
 <br>
 
@@ -211,6 +210,6 @@ A través de proyectos prácticos busco fortalecer mis habilidades en **Python, 
 
 <div align="center">
 
-⭐ **Gracias por visitar este repositorio**
+ **Gracias por visitar este repositorio**
 
 </div>
